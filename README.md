@@ -1,6 +1,6 @@
 # 📜 My Certification Portfolio
 
-Hey there! I'm Pavan — a competitive coder and data enthusiast with a sharp eye for clean logic and real-world impact. This repo is a curated archive of the certifications I've earned since my engineering days, covering programming, databases, analytics, and business intelligence.
+Hey there! I'm prem — a competitive coder and data enthusiast with a sharp eye for clean logic and real-world impact. This repo is a curated archive of the certifications I've earned since my engineering days, covering programming, databases, analytics, and business intelligence.
 
 ## 🧠 What I've Learned
 
